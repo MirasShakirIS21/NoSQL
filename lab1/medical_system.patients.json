@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "6a97ccac1e462a612be40ea3"
+  },
+  "patientId": 1001,
+  "name": "Aidar",
+  "surname": "Serikov",
+  "age": 25,
+  "gender": "male",
+  "diagnosis": "Hypertension",
+  "visits": [
+    "2026-01-15",
+    "2026-03-20",
+    "2026-08-10"
+  ],
+  "contacts": {
+    "phone": "+77011234567",
+    "email": "aidar@example.com",
+    "city": "Almaty"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97cccd1e462a612be40ea5"
+  },
+  "patientId": 1002,
+  "name": "Dana",
+  "surname": "Kassenova",
+  "age": 19,
+  "gender": "female",
+  "diagnosis": "Asthma",
+  "visits": [
+    "2026-02-10",
+    "2026-05-18"
+  ],
+  "contacts": {
+    "phone": "+77021234567",
+    "email": "dana@example.com",
+    "city": "Astana"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97ccd61e462a612be40ea7"
+  },
+  "patientId": 1003,
+  "name": "Aliya",
+  "surname": "Bekova",
+  "age": 32,
+  "gender": "female",
+  "diagnosis": "Diabetes",
+  "visits": [
+    "2026-01-20",
+    "2026-04-12",
+    "2026-07-25"
+  ],
+  "contacts": {
+    "phone": "+77031234567",
+    "email": "aliya@example.com",
+    "city": "Almaty"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97cce01e462a612be40ea9"
+  },
+  "patientId": 1004,
+  "name": "Dias",
+  "surname": "Nurgali",
+  "age": 45,
+  "gender": "male",
+  "diagnosis": "Heart Disease",
+  "visits": [
+    "2026-02-05",
+    "2026-06-15"
+  ],
+  "contacts": {
+    "phone": "+77041234567",
+    "email": "dias@example.com",
+    "city": "Shymkent"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97cce71e462a612be40eab"
+  },
+  "patientId": 1005,
+  "name": "Aruzhan",
+  "surname": "Sadykova",
+  "age": 28,
+  "gender": "female",
+  "diagnosis": "Migraine",
+  "visits": [
+    "2026-03-01",
+    "2026-08-01"
+  ],
+  "contacts": {
+    "phone": "+77051234567",
+    "email": "aruzhan@example.com",
+    "city": "Almaty"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97ccf01e462a612be40ead"
+  },
+  "patientId": 1006,
+  "name": "Marat",
+  "surname": "Ospanov",
+  "age": 52,
+  "gender": "male",
+  "diagnosis": "Hypertension",
+  "visits": [
+    "2026-01-10",
+    "2026-04-20",
+    "2026-08-20"
+  ],
+  "contacts": {
+    "phone": "+77061234567",
+    "email": "marat@example.com",
+    "city": "Astana"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97ccf71e462a612be40eaf"
+  },
+  "patientId": 1007,
+  "name": "Madina",
+  "surname": "Tulegenova",
+  "age": 22,
+  "gender": "female",
+  "diagnosis": "Asthma",
+  "visits": [
+    "2026-02-14"
+  ],
+  "contacts": {
+    "phone": "+77071234567",
+    "email": "madina@example.com",
+    "city": "Karaganda"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97cd031e462a612be40eb1"
+  },
+  "patientId": 1008,
+  "name": "Ruslan",
+  "surname": "Akhmetov",
+  "age": 38,
+  "gender": "male",
+  "diagnosis": "Diabetes",
+  "visits": [
+    "2026-01-30",
+    "2026-05-10",
+    "2026-08-15"
+  ],
+  "contacts": {
+    "phone": "+77081234567",
+    "email": "ruslan@example.com",
+    "city": "Almaty"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97cd0a1e462a612be40eb3"
+  },
+  "patientId": 1009,
+  "name": "Amina",
+  "surname": "Kairat",
+  "age": 30,
+  "gender": "female",
+  "diagnosis": "Allergy",
+  "visits": [
+    "2026-04-05",
+    "2026-07-18"
+  ],
+  "contacts": {
+    "phone": "+77091234567",
+    "email": "amina@example.com",
+    "city": "Shymkent"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a97cd111e462a612be40eb5"
+  },
+  "patientId": 1010,
+  "name": "Timur",
+  "surname": "Bazarov",
+  "age": 67,
+  "gender": "male",
+  "diagnosis": "Heart Disease",
+  "visits": [
+    "2026-01-05",
+    "2026-03-15",
+    "2026-06-20"
+  ],
+  "contacts": {
+    "phone": "+77101234567",
+    "email": "timur@example.com",
+    "city": "Astana"
+  }
+}]
