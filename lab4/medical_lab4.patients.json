@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb0"
+  },
+  "patientId": 201,
+  "name": "Ali Karimov",
+  "age": 34,
+  "city": "Almaty"
+},
+{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb1"
+  },
+  "patientId": 202,
+  "name": "Dana Sarsenova",
+  "age": 27,
+  "city": "Astana"
+},
+{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb2"
+  },
+  "patientId": 203,
+  "name": "Murat Ibrayev",
+  "age": 52,
+  "city": "Almaty"
+},
+{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb3"
+  },
+  "patientId": 204,
+  "name": "Amina Nurgaliyeva",
+  "age": 19,
+  "city": "Shymkent"
+},
+{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb4"
+  },
+  "patientId": 205,
+  "name": "Ruslan Bekov",
+  "age": 45,
+  "city": "Almaty"
+},
+{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb5"
+  },
+  "patientId": 206,
+  "name": "Laura Omarova",
+  "age": 31,
+  "city": "Karaganda"
+},
+{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb6"
+  },
+  "patientId": 207,
+  "name": "Timur Asanov",
+  "age": 62,
+  "city": "Astana"
+},
+{
+  "_id": {
+    "$oid": "6ab36df0dbec43286c375fb7"
+  },
+  "patientId": 208,
+  "name": "Zarina Akhmetova",
+  "age": 23,
+  "city": "Almaty"
+}]

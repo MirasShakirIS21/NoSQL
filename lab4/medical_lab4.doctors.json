@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6ab36de9dbec43286c375faa"
+  },
+  "doctorId": 101,
+  "name": "Aruzhan Sadykova",
+  "specialty": "Cardiology",
+  "experience": 12
+},
+{
+  "_id": {
+    "$oid": "6ab36de9dbec43286c375fab"
+  },
+  "doctorId": 102,
+  "name": "Dias Omarov",
+  "specialty": "Neurology",
+  "experience": 8
+},
+{
+  "_id": {
+    "$oid": "6ab36de9dbec43286c375fac"
+  },
+  "doctorId": 103,
+  "name": "Aigerim Bekova",
+  "specialty": "Therapy",
+  "experience": 15
+},
+{
+  "_id": {
+    "$oid": "6ab36de9dbec43286c375fad"
+  },
+  "doctorId": 104,
+  "name": "Nurlan Akhmetov",
+  "specialty": "Surgery",
+  "experience": 10
+},
+{
+  "_id": {
+    "$oid": "6ab36de9dbec43286c375fae"
+  },
+  "doctorId": 105,
+  "name": "Madina Tulegenova",
+  "specialty": "Pediatrics",
+  "experience": 7
+},
+{
+  "_id": {
+    "$oid": "6ab36de9dbec43286c375faf"
+  },
+  "doctorId": 106,
+  "name": "Askar Zhumabayev",
+  "specialty": "Dermatology",
+  "experience": 11
+}]
